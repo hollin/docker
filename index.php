@@ -6,3 +6,4 @@ echo "1";
 echo "hi";
 echo "hello world";
 
+echo "new";
