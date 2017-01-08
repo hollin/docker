@@ -1,4 +1,5 @@
 <?php 
+echo "a";
 echo "10";
 echo "0";
 echo "1";
