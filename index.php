@@ -1,6 +1,3 @@
 <?php 
-echo "hi \n";
-echo "hello world \n";
-
-echo "new \n";
-echo "nihao \n";
+echo "hello world <br \>";
+echo "你好 <br \>";
