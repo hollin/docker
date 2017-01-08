@@ -1,6 +1,6 @@
 <?php 
-echo "hi";
-echo "hello world";
+echo "hi \n";
+echo "hello world \n";
 
-echo "new";
-echo "nihao";
+echo "new \n";
+echo "nihao \n";
