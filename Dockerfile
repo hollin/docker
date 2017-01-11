@@ -7,6 +7,7 @@ MAINTAINER guoxiangfeng
 
 # Usage: ENV key value
 ENV SERVER_WORKS 4
+#ENV JAVA_HOME /path/to/java/dirent
 
 #run command
 run mkdir /demo
@@ -24,3 +25,5 @@ EXPOSE 9001
 
 # Usage: VOLUME ["/dir_1", "/dir_2" ..]
 VOLUME ~/web 
+
+
